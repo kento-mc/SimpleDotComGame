@@ -16,4 +16,4 @@ public class GameHelper {
 		} //close catch
 		return inputLine;
 	} // close getUserInput() method
-} //close class
+} // close class
